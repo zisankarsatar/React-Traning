@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Demet Akalin",
+      "department": "After",
+      "salary": "10000",
+      "id": "JRGXKAm"
+    },
+    {
+      "name": "Ivana SERT",
+      "department": "Yonetmen",
+      "salary": "500000",
+      "id": "SxZs2AE"
+    },
+    {
+      "name": "Nisan Hakan",
+      "department": "Asci",
+      "salary": "4300",
+      "id": "tq6aD2r"
+    },
+    {
+      "name": "Derya Mutlu",
+      "department": "CEO",
+      "salary": "30000000",
+      "id": "PFWpv7x"
+    },
+    {
+      "name": "Zisan Karsatar",
+      "department": "Cast Ajans",
+      "salary": "4300",
+      "id": "nlzIY2E"
+    },
+    {
+      "name": "Abdullah",
+      "department": "isletme",
+      "salary": "19000",
+      "id": "haqOPFM"
+    }
+  ]
+}

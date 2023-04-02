@@ -69,6 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
 
-server - npm run start 
-npm i json-server (if)
+server - npm run start   /n
+npm i json-server (if)   /n
 db - json-server --watch api/db.json --port 4300
